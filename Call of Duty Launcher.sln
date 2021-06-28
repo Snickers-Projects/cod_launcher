@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call of Duty Launcher", "Call of Duty Launcher.csproj", "{593A05B3-0440-4701-BF54-EDB682D75B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593A05B3-0440-4701-BF54-EDB682D75B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593A05B3-0440-4701-BF54-EDB682D75B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593A05B3-0440-4701-BF54-EDB682D75B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593A05B3-0440-4701-BF54-EDB682D75B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488D1A50-93AC-439F-8D8B-1859DBFD6358}
+	EndGlobalSection
+EndGlobal
